@@ -20,7 +20,7 @@
     "colorthief": "2.3.0",
     "image-size": "0.8.3",
     "jszip": "3.2.2",
-    "p-limit": "2.2.1",
+    "p-limit": "2.3.0",
     "rimraf": "3.0.0"
   }
 }
