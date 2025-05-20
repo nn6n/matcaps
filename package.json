@@ -18,7 +18,7 @@
     "chalk": "3.0.0",
     "color-sorter": "^4.0.0",
     "colorthief": "2.3.0",
-    "image-size": "0.8.3",
+    "image-size": "0.9.7",
     "jszip": "3.2.2",
     "p-limit": "2.2.1",
     "rimraf": "3.0.0"
